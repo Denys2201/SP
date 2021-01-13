@@ -1,0 +1,9 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2805-0735
+
+ Directory of C:\masm32\labs
+
+12.10.2020  11:49               526 lab1
+12.10.2020  11:52               526 lab1.asm
+               2 File(s)          1ÿ052 bytes
+               0 Dir(s)  302ÿ135ÿ656ÿ448 bytes free

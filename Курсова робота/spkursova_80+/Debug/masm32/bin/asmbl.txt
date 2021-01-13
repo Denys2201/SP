@@ -1,0 +1,18 @@
+ Assembling: C:\masm32\labs\lab1.asm
+
+***********
+ASCII build
+***********
+
+C:\masm32\labs\lab1.asm(22) : error A2006: undefined symbol : wsprintf
+ PrintDec(27): Macro Called From
+  C:\masm32\labs\lab1.asm(22): Main Line Code
+ Volume in drive C is Windows
+ Volume Serial Number is 2805-0735
+
+ Directory of C:\masm32\labs
+
+12.10.2020  11:49               526 lab1
+12.10.2020  11:52               526 lab1.asm
+               2 File(s)          1ÿ052 bytes
+               0 Dir(s)  302ÿ206ÿ636ÿ032 bytes free

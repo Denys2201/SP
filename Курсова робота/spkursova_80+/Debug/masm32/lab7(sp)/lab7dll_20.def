@@ -1,0 +1,3 @@
+LIBRARY Lab7dll_20; library name
+EXPORTS
+    Process @1; function name

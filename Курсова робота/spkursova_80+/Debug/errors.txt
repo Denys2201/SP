@@ -1,0 +1,8 @@
+List of bugs in the program
+=================================================================================================
+line 5: 	Identifier expected!
+line 5: 	Unknown identifier!(_Bi)
+line 6: 	Unknown identifier!(Geit)
+line 7: 	After identifier must be ')' or ';' or operation!
+line 8: 	After identifier must be ')' or ';' or operation!
+line 7: 	')' expected!

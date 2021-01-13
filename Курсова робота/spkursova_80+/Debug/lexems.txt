@@ -1,0 +1,87 @@
+Table of tokens!
+=======================================================
+#	        NAME                TYPE     VALUE LINE
+=======================================================
+0	Startprogram             program         0    1
+1	    Variable            variable         0    2
+2	     Int32_t            var type         0    2
+3	          _A          identifier         0    2
+4	           ,               comma         0    2
+5	          _B          identifier         0    2
+6	           ,               comma         0    2
+7	         _CI          identifier         0    2
+8	           ,               comma         0    2
+9	          _D          identifier         0    2
+10	           ;           separator         0    2
+11	  Startblock               start         0    3
+12	          _A          identifier         0    4
+13	         ::=           new value         0    4
+14	           4              number         4    4
+15	           ;           separator         0    4
+16	         Get           inputator         0    5
+17	           (         left braket         0    5
+18	          _B          identifier         0    5
+19	           )        right braket         0    5
+20	           ;           separator         0    5
+21	         Get           inputator         0    6
+22	           (         left braket         0    6
+23	         _CI          identifier         0    6
+24	           )        right braket         0    6
+25	           ;           separator         0    6
+26	         Put           outputtor         0    7
+27	           (         left braket         0    7
+28	         _CI          identifier         0    7
+29	           )        right braket         0    7
+30	           ;           separator         0    7
+31	          _D          identifier         0    8
+32	         ::=           new value         0    8
+33	          _B          identifier         0    8
+34	           ;           separator         0    8
+35	         For                 for         0   10
+36	           (         left braket         0   10
+37	          _A          identifier         0   10
+38	         ::=           new value         0   10
+39	          10              number        10   10
+40	           ;           separator         0   10
+41	      Downto              downto         0   10
+42	           2              number         2   10
+43	           ;           separator         0   10
+44	           )        right braket         0   10
+45	          Do                  do         0   10
+46	  Startblock               start         0   11
+47	         Put        outputbraket         0   12
+48	           (         left braket         0   12
+49	          _A          identifier         0   12
+50	           )        right braket         0   12
+51	           ;           separator         0   12
+52	    Endblock                 end         0   13
+53	         Put           outputtor         0   15
+54	           (         left braket         0   15
+55	          _B          identifier         0   15
+56	         Mul                 mul         0   15
+57	          _D          identifier         0   15
+58	           )        right braket         0   15
+59	           ;           separator         0   15
+60	         Put           outputtor         0   16
+61	           (         left braket         0   16
+62	          _B          identifier         0   16
+63	           )        right braket         0   16
+64	           ;           separator         0   16
+65	         Put           outputtor         0   17
+66	           (         left braket         0   17
+67	          _A          identifier         0   17
+68	         Add                 add         0   17
+69	          _B          identifier         0   17
+70	           )        right braket         0   17
+71	           ;           separator         0   17
+72	         Put           outputtor         0   18
+73	           (         left braket         0   18
+74	           1              number         1   18
+75	         And                 and         0   18
+76	           0              number         0   18
+77	          Or                  or         0   18
+78	           0              number         0   18
+79	           )        right braket         0   18
+80	           ;           separator         0   18
+81	    Endblock                 end         0   19
+82	         EOF         end of file         0   20

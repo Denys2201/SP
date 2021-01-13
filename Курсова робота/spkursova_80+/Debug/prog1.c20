@@ -1,0 +1,19 @@
+Startprogram
+Variable Int32_t _A,_B,_CI,_D;
+Startblock
+_A::=4;
+Get(_B);
+Get(_CI);
+Put(_CI);
+_D::=_B;
+
+For(_A::=10; Downto 2;)  Do
+Startblock
+Put(_A);
+Endblock
+
+Put(_B Mul _D);
+Put(_B);
+Put(_A Add _B);
+Put(1 And 0 Or 0);
+Endblock
